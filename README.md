@@ -1,2 +1,3 @@
-# alternate-reality-game.github.io
-The alternate reality game website.
+Where are you?
+
+**Use these links to figure out where you are**
